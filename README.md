@@ -41,3 +41,5 @@ This pack has 200+ mods, i suggest allocating at least 4GB (6GB is recommended) 
 
 note：This modpack similar FTB Infinity Evolved & Divine Journey so you can’t see custom items & original expert reicpe
 
+download link：https://www.curseforge.com/minecraft/modpacks/atf-new-horizons
+
