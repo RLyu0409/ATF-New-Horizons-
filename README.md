@@ -1,6 +1,6 @@
-# ATF-New-Horizons-
+# ATF-New-Horizons
 
-         About ATF New Horizons
+About ATF New Horizons
 
 This is an Expert Pack meaning recipes are much harder
 
