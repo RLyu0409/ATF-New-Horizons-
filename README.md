@@ -29,3 +29,8 @@ note：This modpack similar FTB Infinity Evolved & Divine Journey so you can’t
 I suggest allocating at least 4 GB(6 GB is recommended) ram to run this pack.
 
 You also need Java 8 to run.
+
+If you want to install this pack on MultiMC, Forge version is 1.7.10 1614.
+
+
+
