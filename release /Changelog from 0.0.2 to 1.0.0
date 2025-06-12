@@ -3,7 +3,10 @@ Blood magic
 Thaumcraft
 Witchery
 -----------------------------
-Fixed more bug
+Bug fixed：
+Fixed BOP id
+Fixed ChromatiCraft biome id
+Fixed Thaumcraft Magical Forest id
 -----------------------------
 Remove mods：
 Applied Energistics 2
@@ -16,7 +19,12 @@ Wireless Crafting Terminal
 Added mods：
 Applied Energistics 2 - GTNH
 CodeChickenCore - GTNH
+Dual Hotbar
 Draconic Evolution - GTNH
 Ender IO - GTNH
 NotEnoughtItem - GTNH
 Wireless Crafting Terminal - GTNH
+-----------------------------
+Know bug：
+DragonApi Render Block crash
+I'll try fixed this bug
