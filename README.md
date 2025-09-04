@@ -1,6 +1,6 @@
-About ATF New Horizons
+About Nova Quantum Horizons 1
 
-ATF New Horizons is a complex modpack with the main goal with an optional one you need to finish:
+Nova Quantum Horizons 1 is a complex modpack with the main goal with an optional one you need to finish:
 
 Play through all the mods this pack includes and make anything automated as well as you can.
 
