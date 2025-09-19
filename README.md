@@ -1,6 +1,6 @@
-About Nova Quantum Horizons 1
+About Quantum Horizons Complex Pack 1
 
-Nova Quantum Horizons 1 is a complex modpack with the main goal with an optional one you need to finish:
+Quantum Horizons Complex Pack 1 is a complex modpack with the main goal with an optional one you need to finish:
 
 Play through all the mods this pack includes and make anything automated as well as you can.
 
